@@ -1,8 +1,8 @@
 # Jazz Harris
 
-**Software Engineer and Philomatch**
+**Software Engineer, Business Analyst, and Project Management Enthusiast with a Passion for Lifelong Learning**
 
-I’m a full stack developer with two years of experience. Over time I have developed my stack to include various languages and full-stack web development technology. My passions to always learn new things, build upon my current skills and connect with people continue to push me to be a better developer.
+I am a Business Analyst with over two years of experience as a full-stack developer. I've expanded my expertise to include various programming languages, full-stack web development, and business analysis skills such as requirements gathering and process modeling. I also have experience in project management, successfully leading projects to completion while aligning with business goals. My passion for learning, skill development, and connecting with others drives me to continually grow as both a developer and analyst..
 
    <p align="left"> 
       <a href="https://jazz-harris.com">
