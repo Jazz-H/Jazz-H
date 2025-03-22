@@ -5,7 +5,7 @@
 I’m a full stack developer with two years of experience. Over time I have developed my stack to include various languages and full-stack web development technology. My passions to always learn new things, build upon my current skills and connect with people continue to push me to be a better developer.
 
    <p align="left"> 
-      <a href="https://jazzharris.weebly.com">
+      <a href="https://jazz-harris.com">
          <img alt="portfolio link" title="View My Portfolio" src="https://custom-icon-badges.demolab.com/badge/View%20My%20Portfolio-blue.svg?logo=browser&logoColor=fff"/></a> 
      
    </p>
